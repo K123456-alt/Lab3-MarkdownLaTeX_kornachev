@@ -1,0 +1,5 @@
+[Github] (https://github.com/K123456-alt/Lab3-MarkdownLaTeX_kornachev.git)
+[Markdown] (https://www.markdownguide.org/ "Перейти на официальный сайт")
+[Gitflic] (https://gitflic.ru/)
+![Скриншот задания](/img/gitPushLab3_kornachev.png)
+![Изображение](/img/separatorsCommitLab3_kornachev.png)
